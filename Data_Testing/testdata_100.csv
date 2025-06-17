@@ -1,0 +1,103 @@
+NO,INGGRIS,PARAFRASE,REFERENSI,BLEU SCORE,SEMANTIC SIMILARITY
+1,You can do it,kamu mampu melakukannya,kamu bisa melakukannya,75.35,0.89
+2,you have what it takes,anda tahu apa yang di perlukan,anda memiliki apa yang di perlukan,53.72,0.92
+3,you are capable of greatness,anda bisa menjadi hebat,anda mampu menjadi hebat,75.27,0.88
+4,you are worth fighting for,anda layak mendapatkannya,anda layak diperjuangkan,55.35,0.77
+5,You are capable of amazing things,anda mampu melakukan hal hal luar biasa,anda mampu melakukan hal hal menakjubkan,61.47,0.84
+6,Believe in your abilities,percaya pada dirimu sendiri,percaya pada kemampuan anda,55.27,0.78
+7,You are an inspiration,anda adalah sumber inspirasi,kamu adalah inspirasi,45.27,"0,75"
+8,you can reach your goals,anda dapat memenuhi tujuan anda,anda dapat mencapai tujuan anda,75.35,0.87
+9,You are worthy of success,anda mampu untuk sukses,anda layak untuk sukses,52.61,0.72
+10,you can make it happen,anda mampu mewujudkannya,anda dapat mewujudkannya,85.43,0.82
+11,You are capable of achieving your dreams,anda mampu mencapai tujuan anda,anda dapat mencapai impian anda,75.64,0.73
+12,You are strong enough to make it through,anda bisa melewatinya,anda cukup kuat untuk melewatinya,50.42,0.65
+13,Your hard work will pay off in the end,kerja keras anda akan membuahkan hasil pada akhirnya,kerja keras anda akan terbayar pada akhirnya,58.93,0.83
+14,You’re doing better than you think,anda melakukan lebih baik dari yang anda sadari,anda melakukan lebih baik dari yang anda pikirkan,92.64,0.93
+15,You are worthy of love and respect.,anda layak di cintai dan di hormati,anda layak mendapatkan cinta dan rasa hormat,67.46,0.70
+16,You are making a difference,anda membuat perubahan,anda membuat perbedaan,85.74,0.82
+17,You have a bright future ahead of you,ada masa depan cerah di depan anda,anda memiliki masa depan yang cerah di depan anda,67.9,0.74
+18,You are amazing,kamu menakjubkan,kamu luar biasa,61.47,0.45
+19,you are not alone. I’m here for you,aku disini untukmu,anda tidak sendirian. Saya di sini untukmu,55.27,0.86
+20,Be proud of yourself,anda harus bangga dengan diri sendiri,banggalah pada diri sendiri,45.27,0.67
+21,You are doing great,anda melakukannya dengan sangat baik,anda melakukannya dengan baik,75.35,0.78
+22,you are stronger than you think.,anda lebih kuat dari yang anda kira,anda lebih kuat dari yang anda pikirkan,52.61,0.65
+23,You have what it takes to succeed,anda memiliki keterampilan untuk sukses,anda memiliki apa yang di perlukan untuk sukses,58.93,0.92
+24,Keep moving forward and you’ll achieve your goals,anda dapat mencapai tujuan anda dengan bergerak maju,anda akan mencapai tujuan anda jika anda terus bergerak maju,82.64,0.68
+25,You are in control of your own destiny.,anda memiliki kendali atas takdir anda sendiri,anda memiliki kendali atas nasib anda sendiri,67.46,0.67
+26,Every challenge is an opportunity to grow and learn,setiap tantangan memberi anda kesempatan untuk belajar dan berkembang,setiap tantangan adalah kesempatan untuk tumbuh dan belajar,85.74,0.74
+27,"Keep going, even when it feels hard","meski terasa sulit, tetaplah melangkah",terus berjalan bahkan ketika terasa sulit,67.9,0.70
+28,Believe in yourself even when others don’t,"Meskipun orang lain tidak, percayalah pada diri sendiri",Percaya pada diri sendiri bahkan ketika orang lain tidak,61.47,0.77
+29,"Focus on progress, not perfection","jangan fokus pada kesempurnaan, fokuslah pada kemajuan","Fokus pada kemajuan, bukan kesempurnaan",55.27,0.82
+30,"Keep a positive attitude, it will take you far",ini akan membawa anda jauh jika anda menjaga sikap dengan baik,"Pertahankan sikap positif, itu akan membawa Anda jauh.",55.76,0.77
+31,You have the potential to achieve greatness.,anda memiliki potensi untuk menjadi hebat,anda memiliki kemampuan untuk mencapai kebesaran,45.92,0.84
+32,The only limits you have are the ones you set for yourself,jangan menyerah dan terus pantau hadiahnya,Perhatikan hadiahnya dan jangan pernah menyerah,78.85,0.78
+33,Keep pushing yourself beyond your limits,dorong diri anda melewati batas,Terus mendorong diri Anda melampaui batas Anda,55.35,"0,75"
+34,"The road to success may be bumpy, but it’s worth the journey","jalan menuju kesuksesan memang tidak mudah, tetapi itu sangat berharga","Jalan menuju sukses mungkin bergelombang, tetapi itu sepadan dengan perjalanannya",61.47,0.87
+35,Believe in your dreams and pursue them with passion.,anda harus mengejar impian anda dengan semangat,Percayalah pada impian Anda dan kejar dengan penuh semangat.,55.27,0.72
+36,You have the power to create your own happiness.,anda bisa membuat kebahagiaanmu sendiri,Anda memiliki kekuatan untuk menciptakan kebahagiaan Anda sendiri.,45.27,0.82
+37,Success is within reach if you keep working hard.,kesuksesan bisa kamu raih jika kamu terus bekerja keras,Sukses berada dalam jangkauan jika Anda terus bekerja keras.,75.27,0.73
+38,"Keep your head up, things will get better","angkat kepalamu, semuanya akan menjadi lebih baik","Tetap tegakkan kepalamu, segalanya akan menjadi lebih baik",55.35,0.65
+39,Focus on the positive and keep moving forward.,tetap positif dan bergerak maju,Fokus pada hal positif dan terus bergerak maju.,61.47,0.83
+40,Mistakes are opportunities for learning and growth.,pembejalaran dan pertumbuhan berasal dari kesalahan,Kesalahan adalah kesempatan untuk belajar dan tumbuh.,55.27,0.63
+41, Don’t be afraid to take risks and try new things.,jangan takut untuk mencoba sesuatu yang baru, Jangan takut untuk mengambil risiko dan mencoba hal-hal baru.,45.27,0.70
+42,"Failure is just a temporary setback, keep pushing forward.",jangan biarkan kegagalan menghentikan anda untuk maju,"Kegagalan hanyalah kemunduran sementara, terus maju.",75.35,0.82
+43," Keep going, you’re making progress.","anda membuat kemajuan, teruskan"," Terus berjalan, Anda membuat kemajuan.",52.61,0.74
+44,"You’re doing fantastic, keep going.","anda melakukan pekerjaan dengan baik, teruskan","Anda melakukan hal yang fantastis, teruskan.",75.27,0.45
+45,"You’re doing an amazing job, keep it up.","anda melakukan pekerjaan dengan baik, pertahankan","Anda melakukan pekerjaan yang luar biasa, pertahankan.",55.35,0.86
+46,"Keep working towards your goals, you’ll get there eventually.",anda akan sampai disana pada akhirnya jika anda terus bekerja menuju tujuan anda,"Terus bekerja menuju tujuan Anda, Anda akan sampai di sana pada akhirnya.",61.47,0.67
+47,"Believe in your potential, you’re capable of great things.","anda dapat melakukan hal-hal hebat, jika anda percaya diri sendiri.","Percaya pada potensi Anda, Anda mampu melakukan hal-hal hebat.",55.27,0.78
+48,"Don’t let fear hold you back, keep pushing yourself.","Jangan takut, dorong dirimu","Jangan biarkan rasa takut menahan Anda, teruslah mendorong diri sendiri.",57.88,0.65
+49,"Keep striving for excellence, you’ll get there.",anda akan sampai disana jika anda terus berusaha,"Terus berjuang untuk keunggulan, Anda akan sampai di sana.",50.76,0.92
+50,Don’t give up on your dreams,jangan menyerah pada tujuan anda,Jangan menyerah pada impian Anda,25.99,0.68
+51,You are a valuable and unique person.,anda istimewa dan berharga,Anda adalah orang yang berharga dan unik.,51.94,0.45
+52,There is no one like you in the world.,hanya ada satu sepertimu,Tidak ada orang sepertimu di dunia ini.,25.36,0.53
+53,you are a positive influence on others. ,anda mempengaruhi orang lain ,Anda adalah pengaruh positif pada orang lain. ,20.61,0.88
+54,your kindness is appreciated.,sikap baik anda di hargai,Kebaikan Anda dihargai.,25.99,0.77
+55,You are brave enough to face your fears,kamu berani menghadapi ketakutanmu,Anda cukup berani untuk menghadapi ketakutan Anda,51.94,0.84
+56,You are worth it.,anda sangat layak,Anda sangat berharga.,25.36,0.78
+57,Have faith in yourself.,percayalah pada kemampuan anda,Percayalah pada diri sendiri.,20.61,"0,75"
+58,You can achieve anything you set your mind to.,anda dapat mencapai apa pun yang anda inginkan,Anda dapat mencapai apa pun yang Anda pikirkan.,25.99,0.87
+59,You are more than enough.,anda jauh lebih dari itu,Anda lebih dari cukup.,25.36,0.72
+60,You have the power to make your dreams come true.,anda dapat membuat impian menjadi kenyataan,Anda memiliki kekuatan untuk mewujudkan impian Anda.,20.61,0.82
+61,You have the power to create your own destiny.,anda bisa membuat takdir anda sendiri,Anda memiliki kekuatan untuk menciptakan takdir,25.99,0.73
+62,You have the strength to keep going.,kamu kuat untuk terus berjalan,Anda memiliki kekuatan untuk terus berjalan.,65.53,0.65
+63,You have the courage to push through.,anda memiliki kekuatan untuk menerobos,Anda memiliki keberanian untuk mendorong.,55.92,0.83
+64,You have the power to overcome any obstacle.,anda memiliki kemampuan untuk menghadapi rintangan,Anda memiliki kekuatan untuk mengatasi rintangan apa pun.,65.76,0.87
+65, You are an inspiration.,anda adalah seorang motivator, Anda adalah inspirasi.,52.61,0.74
+66,You have the power to make a difference.,anda memiliki kemampuan untuk mengubah sesuatu,Anda memiliki kekuatan untuk membuat perbedaan.,85.43,0.56
+67,"Keep going, you’re doing great.","anda melakukan dengan baik, teruskan","Terus berjalan, Anda melakukannya dengan baik.",75.64,0.73
+68," Keep pushing, success is just around the corner",sukses sudah dekat jika anda terus mendorong," Terus mendorong, kesuksesan sudah dekat",50.42,0.75
+69,"Don’t give up, you’re closer than you think.","jangan menyerah, kalian sudah dekat","Jangan menyerah, Anda lebih dekat dari yang Anda pikirkan.",58.93,0.65
+70,"You’ve got this, keep going.","anda mendapatkannya, teruskan","Anda punya ini, teruskan.",45.27,0.85
+71,"Keep trying, you’ll get there eventually.","jangan menyerah, anda akan sampai disana pada akhirnya","Teruslah mencoba, Anda akan sampai di sana pada akhirnya.",75.35,0.75
+72,"You’re making progress, keep it up.","anda bergerak ke arah yang benar, teruskan","Anda membuat kemajuan, pertahankan.",52.61,0.56
+73,You’re doing better than you think.,anda melakukan lebih baik dari yang anda kira,Anda melakukan lebih baik dari yang Anda pikirkan.,50.76,0.67
+74,"Keep practicing, you’ll get better with time.",anda akan menjadi lebih baik jika anda terus berlatih,"Teruslah berlatih, Anda akan menjadi lebih baik seiring waktu.",25.99,0.62
+75,"Don’t let setbacks hold you back, keep moving forward.",jangan biarkan kemunduran menghentikan anda untuk terus bergerak maju,"Jangan biarkan kemunduran menahan Anda, teruslah bergerak maju.",51.94,0.68
+76,"You’re on the right track, keep going.","anda berada di jalan ayng benar, teruskan","Anda berada di jalur yang benar, teruskan.",25.36,0.67
+77," Keep working hard, success is within reach.",kesuksesan dapar di raih jika anda bekerja keras," Terus bekerja keras, kesuksesan ada dalam jangkauan.",20.61,0.74
+78,"You’re improving every day, keep it up.","anda menjadi lebih baik setiap hari, pertahankan","Anda meningkat setiap hari, pertahankan.",25.99,0.70
+79,"Don’t be discouraged, keep trying.","jangan patah semangat, teruslah mencoba","Jangan berkecil hati, teruslah berusaha.",65.53,0.77
+80,"You’re stronger than you know, keep going.","kamu kuat, lanjutkan","Anda lebih kuat dari yang Anda tahu, teruskan.",54.77,0.82
+81," Keep moving forward, one step at a time.","selangkah demi langkah, terus bergerak"," Terus bergerak maju, selangkah demi selangkah.",55.35,0.77
+82,"Keep your head up, you’ve got this.","angkat kepalamu, kamu punya ini","Tetap tegakkan kepalamu, kamu punya ini.",61.47,0.84
+83,"You’re doing an amazing job, keep it up.","anda melakukan pekerjaan dengan baik, pertahankan","Anda melakukan pekerjaan yang luar biasa, pertahankan.",55.27,0.78
+84,"You’re doing fantastic, keep going.","anda melakukannya dengan baik, teruskan","Anda melakukan hal yang fantastis, teruskan.",45.27,"0,75"
+85,Believe in yourself and your abilities.,jangan pada diri sendiri dan kemampuan anda,Percayalah pada diri sendiri dan kemampuan Anda.,75.35,0.62
+86,You can do this.,anda mampu melakukannya,Anda bisa melakukan ini.,52.61,0.85
+87,"Keep going, you’re making progress.","anda bergerak ke arah yang benar, teruskan","Terus berjalan, Anda membuat kemajuan.",85.43,0.63
+88,You are capable of great things.,anda dapat melakukan hal hal hebat,Anda mampu melakukan hal-hal besar.,75.64,0.87
+89,Don’t be afraid to take risks and try new things.,jangan takut untuk mencoba hal baru,Jangan takut untuk mengambil risiko dan mencoba hal-hal baru.,50.42,0.71
+90,"Keep your goals in mind and work towards them every day.
+",anda harus mengingat tujuan anda dan bekerja untuk mencapainya,Ingatlah tujuan Anda dan kerjakan ke arah mereka setiap hari.,58.93,0.45
+91,"You can do this. I believe in you.
+",saya yakin anda bisa melakukan ini,Anda bisa melakukan ini. Saya percaya pada Anda.,82.64,0.67
+92,Don’t give up. You’re almost there.,"anda sudah dekat dengan itu, jangan menyerah",Jangan menyerah. Anda hampir sampai.,67.46,0.78
+93,You have come so far. Be proud of yourself.,"anda telah menempuh perjalanan jauh, banggalah pada dirimu",Anda telah sampai sejauh ini. Banggalah pada diri sendiri.,85.74,0.65
+94,I am reading a book.,aku sedang membaca novel,aku sedang baca buku,67.9,0.92
+95,I’m still cooking.,aku belum selesai memasak,aku masih sedang memasak,61.47,0.68
+96,I’m doing my homework,aku sedang belajar,aku sedang mengerjakan PR,55.27,0.67
+97,I woke up late this morning.,aku bangun siang hari ini,aku bangun terlambat tadi pagi,25.36,0.74
+98,I drank a glass of milk an hour ago. ,satu jam yang lalu saya minum susu,aku minum segelas susu sejam yang lalu,20.61,0.70
+99,I will buy some food.,saya akan membayar makanan,aku akan beli makanan,25.99,0.77
+100, will go to the beach. ,aku menuju ke pantai,aku akan pergi ke pantai,65.53,0.82
